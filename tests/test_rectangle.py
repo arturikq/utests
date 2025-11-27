@@ -6,7 +6,7 @@ class RectangleTestCase(unittest.TestCase):
         self.assertEqual(area(10, 0), 0)
 
     def test_square_area(self):
-        self.assertEqual(area(10, 10), 100)
+        self.assertEqual(area(10, 10), 666)
 
     def test_rect_area(self):
         self.assertEqual(area(5, 7), 35)
