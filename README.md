@@ -46,5 +46,5 @@
 
 ## 7. Размещение исходного кода тестов
 - Тесты находятся в папке `tests/rectangle_test.py`.
-- Репозиторий GitHub: https://github.com/arturikq/plugin
+- Репозиторий GitHub: https://github.com/arturikq/utests
 - История коммитов фиксирует появление тестов.
